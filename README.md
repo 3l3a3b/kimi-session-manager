@@ -181,4 +181,4 @@ This is a third-party hobby tool and is not affiliated with Moonshot AI. All "Ki
 
 ## License
 
-[MIT](LICENSE) © 2026 Leaphr
+[MIT](LICENSE) © 2026 333 Lab
