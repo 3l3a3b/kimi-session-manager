@@ -734,7 +734,7 @@ export default function Home() {
           </DialogHeader>
           {handoffTarget && (
             <div className="space-y-3">
-              <p className="truncate font-mono text-xs text-neutral-400" title={handoffTarget.workDir}>
+              <p className="break-all font-mono text-xs text-neutral-400" title={handoffTarget.workDir}>
                 {t('workDirLabel', { dir: handoffTarget.workDir || t('unknown') })}
               </p>
               <div className="rounded-lg border border-neutral-200 p-4">
